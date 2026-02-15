@@ -15,4 +15,4 @@ This Project contains two recursive mathematical functions written in Java, loca
 * Create a GitHub account and keep track of changes in the remote repository.
 
 # Screenshot
-![Screenshot 2026-02-15 at 2.56.40 PM.png](../../Desktop/Screenshot%202026-02-15%20at%202.56.40%E2%80%AFPM.png)
+![COMP3111 Lab1 Screenshot.png](COMP3111%20Lab1%20Screenshot.png)
