@@ -2,7 +2,7 @@
 
 This is the assignment of the first lab of COMP3111. 
 
-This Project contains two recursive mathematical functions written in Java, located in the file [`myLibrary.java`](.src/main/java/Lab1/myLibrary.java) :
+This Project contains two recursive mathematical functions written in Java, located in the file [`myLibrary.java`](/src/main/java/Lab1/myLibrary.java) :
 - `Power(base, exponent)`
 - `factorial(n)`
 
@@ -13,3 +13,6 @@ This Project contains two recursive mathematical functions written in Java, loca
 * Learn how to commit changes and other Git operations.
 ### GitHub
 * Create a GitHub account and keep track of changes in the remote repository.
+
+# Screenshot
+![Screenshot 2026-02-15 at 2.56.40 PM.png](../../Desktop/Screenshot%202026-02-15%20at%202.56.40%E2%80%AFPM.png)
